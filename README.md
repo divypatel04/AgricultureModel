@@ -1,4 +1,4 @@
-# Agriculture Simulation Model with AnyLogic
+# Agriculture Simulation Model with AnyLogic 🌱
 
 ## Overview
 This project is a simulation-based model designed using **AnyLogic** to optimize the efficiency of agricultural utilities such as tractors, containers, and other resources, while ensuring crop growth remains unaffected and undamaged. The model integrates a machine learning (ML) algorithm to enhance decision-making, allowing for better resource allocation and operational planning.
@@ -7,7 +7,7 @@ This project is a simulation-based model designed using **AnyLogic** to optimize
 
 ## Features
 - **Crop Simulation**: Models the growth cycle of crops with realistic environmental and operational parameters.
-- **Utility Management**: Simulates the usage and movements of tractors, containers, and other equipment.
+- **Utility Management**: Simulates the usage and movements of tractors, containers, and other equipment. 🚜
 - **Machine Learning Integration**: Utilizes an ML model to optimize resource efficiency and reduce operational costs without compromising crop health.
 - **Damage Prevention**: Ensures that crop growth and quality remain intact during utility operations.
 
@@ -22,7 +22,7 @@ This project is a simulation-based model designed using **AnyLogic** to optimize
 
 ## Components
 ### 1. **Crop Field Statecharts**
-- Models the various stages of crop growth.
+- Models the various stages of crop growth. 🌱
 - Tracks the impact of utility operations on crop health.
 
 ### 2. **Utility Resources**
@@ -49,7 +49,7 @@ This project is a simulation-based model designed using **AnyLogic** to optimize
    - Download and install AnyLogic from [official website](https://www.anylogic.com/).
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo-link
+   git clone [https://github.com/your-repo-link](https://github.com/divypatel04/AgricultureModel/)
    ```
 3. **Import the Model**:
    - Open AnyLogic and import the provided project file.
@@ -82,10 +82,4 @@ This project is a simulation-based model designed using **AnyLogic** to optimize
 
 ---
 
-## Contributing
-Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
-
----
-
-## License
-This project is licensed under the [MIT License](LICENSE).
+Thanks, hope you liked my proejct
